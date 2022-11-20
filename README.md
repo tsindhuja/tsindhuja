@@ -1,9 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Sindhuja, a passionate software engineer working in the field of AI from India, currently doing masters in the US. I love seeing through my ideas from start to finish and tackle interesting cases. I'm currently focussing on NLP algorithms and systems and would love to collaborate on the same.
-You can follow me on my Twitter handle <a href="https://twitter.com/tsindhu24">@tsindhu24</a> and <a href="https://www.linkedin.com/in/sindhuja-thogarrati-03b835152/">LinkedIn</a>.
+You can follow me on my <a href="https://www.linkedin.com/in/sindhuja-thogarrati-03b835152/">LinkedIn</a>.
 
-<u>✍🏻 Blog and Writing</u><br>
-In addition to coding, I also write blogs on tech development and lifestyle. You can find my tech articles on <a href="https://sindhujat.medium.com/">Medium</a> lifestyle articles at <a href="https://www.thesinetales.com">thesinetales.com</a>
 
 
 
