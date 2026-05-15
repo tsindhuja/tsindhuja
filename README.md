@@ -1,6 +1,4 @@
 
-
-# Sindhuja Thogarrati
 ### Machine Learning Engineer & Researcher | Edge Inference & Applied NLP
 📍 Boston, MA  
 📧 [sindhuja.togarrathi@gmail.com](mailto:sindhuja.togarrathi@gmail.com) | 🌐 [Website](https://tsindhuja.github.io) | 🔗 [LinkedIn](https://linkedin.com) | 📝 [arXiv:2605.11483](https://arxiv.org)
